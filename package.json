@@ -3,7 +3,7 @@
   "name": "startbootstrap-new-age",
   "version": "4.0.0-beta",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "description": "A one page app landing page HTML theme for Bootstrap.",
   "keywords": [
