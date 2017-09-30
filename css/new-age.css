@@ -313,3 +313,8 @@ footer {
 
 .aq-m-light {
   color: #ffffff; }
+
+.aq-m-thumb {
+  max-width: 100%;
+  padding: 0 10px;
+  box-sizing: border-box; }
